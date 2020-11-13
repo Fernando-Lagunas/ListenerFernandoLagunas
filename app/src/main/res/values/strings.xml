@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ListenerFernandoLagunas</string>
+
+    <string name="btnSaludo1">Saludo1</string>
+
+    <string name="btnSaludo2">Saludo2</string>
+
+    <string name="txtVistaSaludos">VistaSaludos</string>
+
+</resources>
